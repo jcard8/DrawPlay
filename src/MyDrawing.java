@@ -1,3 +1,4 @@
+/* Jordan Card and Austin Sonju */
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
@@ -32,6 +33,7 @@ public class MyDrawing extends JPanel {
 		// Frame will not display until you set visible true
 		frame.setVisible(true);
 		System.out.println("Hello world! It's a beautiful, sunny day!");
+		System.out.println("CS is the best!");
 	}
 
 }
